@@ -4,6 +4,7 @@
 - [Selfhost Requirements](#selhost-requirements)
 - [Selfhost Setup](#selhost-setup)
 - [Features](#current-working-features-are)
+- [Bugs](#bugs)
 - [Bot Developer](#bot-developer)
 ___
 
@@ -30,6 +31,9 @@ If you have any issues with running the bot, you can contact me via my [support 
 If you have any questions or issues regarding the vcode.js api & library, you can join their [support server](https://discord.gg/vcodes-xyz-849011617962393638). 
 ___
 
+## **Bugs:**
+Please report the bugs in the [support server](https://discord.com/invite/7AYYyjZ4B8).
+
 ## **Bot Developer:**
 Hey there, I am [Dornox](https://v2.krushna.tech), a passionate UI/UX designer who bridges the gap between development and design.
 ___
@@ -41,4 +45,4 @@ ___
 
 ***
 
-## **Commands are still under development so please wait for few days until I finish working on them!**
+## **Commands are still under development so please wait until I finish working on them!**
